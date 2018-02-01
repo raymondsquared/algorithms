@@ -3,9 +3,9 @@ Just another algorithms repository.
 
 ## Tasks
 
-| Name           | Type | Difficulty | Language   | Time Complexity | Space Complexity |
-| -------------- | ---- | ---------- | ---------- | --------------- | ---------------- |
-| Insertion Sort | Sort | Basic      | JavaScript | -               | -                |
+| Name           | Type   | Difficulty | Language   | Time Complexity | Space Complexity |
+| -------------- | ------ | ---------- | ---------- | --------------- | ---------------- |
+| Insertion Sort | [Sort] | Basic      | JavaScript | n^2             | 1                |
 
 ### Levels
 
@@ -37,6 +37,7 @@ Just another algorithms repository.
 | Efficiency        |
 | ----------------  |
 | -                 |
+| 1                 |
 | log n             |
 | square root of n  |
 | n                 |
@@ -54,3 +55,6 @@ Just another algorithms repository.
 | Java              |
 | C#                |
 | Go                |
+
+
+[Sort]: https://github.com/Raymondsquared/algorithms/tree/master/sort
